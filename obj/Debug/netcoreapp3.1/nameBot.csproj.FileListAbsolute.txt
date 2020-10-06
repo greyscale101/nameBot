@@ -1,0 +1,12 @@
+/Users/jessicamcmahon/Desktop/nameBot/bin/Debug/netcoreapp3.1/nameBot.deps.json
+/Users/jessicamcmahon/Desktop/nameBot/bin/Debug/netcoreapp3.1/nameBot.runtimeconfig.json
+/Users/jessicamcmahon/Desktop/nameBot/bin/Debug/netcoreapp3.1/nameBot.runtimeconfig.dev.json
+/Users/jessicamcmahon/Desktop/nameBot/bin/Debug/netcoreapp3.1/nameBot.dll
+/Users/jessicamcmahon/Desktop/nameBot/bin/Debug/netcoreapp3.1/nameBot.pdb
+/Users/jessicamcmahon/Desktop/nameBot/obj/Debug/netcoreapp3.1/nameBot.csprojAssemblyReference.cache
+/Users/jessicamcmahon/Desktop/nameBot/obj/Debug/netcoreapp3.1/nameBot.AssemblyInfoInputs.cache
+/Users/jessicamcmahon/Desktop/nameBot/obj/Debug/netcoreapp3.1/nameBot.AssemblyInfo.cs
+/Users/jessicamcmahon/Desktop/nameBot/obj/Debug/netcoreapp3.1/nameBot.csproj.CoreCompileInputs.cache
+/Users/jessicamcmahon/Desktop/nameBot/obj/Debug/netcoreapp3.1/nameBot.dll
+/Users/jessicamcmahon/Desktop/nameBot/obj/Debug/netcoreapp3.1/nameBot.pdb
+/Users/jessicamcmahon/Desktop/nameBot/obj/Debug/netcoreapp3.1/nameBot.genruntimeconfig.cache
